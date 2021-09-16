@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chats</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="RESEND"><u>RESEND OTP</u></string>
+    <string name="updating_profile">Updating Profile...</string>
+    <string name="verify">VERIFY</string>
+</resources>
